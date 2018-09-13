@@ -1,0 +1,8 @@
+这是《Mybatis从入门到精通》示例
+
+1、mybatis别名、JdbcType
+	org.apache.ibatis.type.TypeAliasRegistry
+	org.apache.ibatis.type.JdbcType
+
+2、useGeneratedKeys为true
+	java.sql.Statement.getGeneratedKeys
